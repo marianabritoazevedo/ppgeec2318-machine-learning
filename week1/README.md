@@ -2,7 +2,7 @@
 
 > 3 first chapters summary
 
-In the initial three chapters of "Designing Machine Learning Systems" by Chip Huyen, crucial insights into machine learning systems and Data Engineering were highlighted.
+In the first three chapters of "Designing Machine Learning Systems", by Chip Huyen, it's possible to obtain many insights about Machine Learning Systems and Data Engineering. Through these initial chapters, the author delves into essential principles and challenges related ML systems and Data Engineering, exploring their complexities and relationships.
 
 The first chapter provides a huge perspective on the recent surge of machine learning, particularly with the proliferation of deep learning solutions across various domains like healthcare, business, finance, marketing, and translation. However, it emphasizes that a machine learning system encompasses more than just the developed model; it constitutes an entire ecosystem comprising business requirements, interfaces, data stack, and protocols for development, monitoring, and updating of said models, known as ML System. 
 
