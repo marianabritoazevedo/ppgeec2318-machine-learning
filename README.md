@@ -9,12 +9,10 @@ Machine Learning is a branch of artificial intelligence that focuses on developi
 ## ✏️ Weekly Activities
 
 ### Week 1: Designing Machine Learning Systems
-- **Activity:** This week, students were introduced to the basic concepts of machine learning, including types of learning, common algorithms, and practical applications.
+- **Activity:** Summary of the first 3 chapters of the book _Designing Machine Learning Systems_, by Chip Huyen. 
 - **Resources:**
-  - Lecture slides
-  - Sample codes
-  - Recommended reading articles
+  - [Summary]()
 
-## How to Contribute
+## ⭐ How to Contribute
 
 If you're a student or a professor interested in contributing to this repository, feel free to send pull requests with your activities, codes, or relevant materials. All contributions are welcome!
