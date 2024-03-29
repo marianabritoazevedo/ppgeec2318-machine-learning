@@ -13,6 +13,12 @@ Machine Learning is a branch of artificial intelligence that focuses on developi
 - **Resources:**
   - [Summary activity](https://github.com/marianabritoazevedo/ppgeec2318-machine-learning/tree/main/week1)
 
+### Weeks 2 and 3: Impacts of Open Foundation Models and Machine Learning Systems
+- **Activity 1:** Crytically analyze the article in Arxiv [On the Societal Impact of Open Foundation Models](https://arxiv.org/pdf/2403.07918.pdf).
+- **Activity 2:** Summary 10 crucial insights about the chapter 4 of the book _Designing Machine Learning Systems_, by Chip Huyen.
+- **Resources:**
+  - [Critical analysis and summary](https://github.com/marianabritoazevedo/ppgeec2318-machine-learning/tree/main/weeks2&3)
+
 ## ⭐ How to Contribute
 
 If you're a student or a professor interested in contributing to this repository, feel free to send pull requests with your activities, codes, or relevant materials. All contributions are welcome!
