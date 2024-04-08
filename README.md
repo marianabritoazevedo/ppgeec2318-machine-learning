@@ -19,6 +19,13 @@ Machine Learning is a branch of artificial intelligence that focuses on developi
 - **Resources:**
   - [Critical analysis and summary](https://github.com/marianabritoazevedo/ppgeec2318-machine-learning/tree/main/weeks2&3)
 
+### Weeks 4: Principles of Deep Learning Theory and Machine Learning Systems
+- **Activity 1:** Deep analysis about the Chapter 0 of the book [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165.pdf), by Daniel A. Roberts and Sho Yaida.
+- **Activity 2:** Summary the chapter 5 of the book _Designing Machine Learning Systems_, by Chip Huyen.
+- **Resources:**
+  - [Deep analysis and summary](https://github.com/marianabritoazevedo/ppgeec2318-machine-learning/tree/main/week4)
+
+
 ## ⭐ How to Contribute
 
 If you're a student or a professor interested in contributing to this repository, feel free to send pull requests with your activities, codes, or relevant materials. All contributions are welcome!
